@@ -1,2 +1,2 @@
-# copia-de-google
-file:///C:/Users/USUARIO/Desktop/technolochicas/google/index.html
+# copia-de-google[
+https://guileless-snickerdoodle-c5a6c8.netlify.app/
